@@ -1,1 +1,2 @@
-# IBM-Capstone-Project
+# IBM_Data-Science_Capstone_Project
+# In this capstone assignment, I worked with SpaceX launch data that is gathered from an API, specifically the SpaceX REST API. This API gave me data about launches, including information about the rocket used, payload delivered, launch specifications, landing specifications, and landing outcome. My goal was to use this data to predict whether SpaceX will attempt to land a rocket or not.
